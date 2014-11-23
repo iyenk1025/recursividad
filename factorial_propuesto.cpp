@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 using namespace std ;
-int factorial(int n)
+float factorial(int n)
 {
 	if (n==1)
 	{
